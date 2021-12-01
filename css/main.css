@@ -1,0 +1,10 @@
+#message_box {
+    position:fixed; 
+    margin-top: 10px;
+    z-index:9999;
+    display: none;
+}
+
+#show_user {
+    display: none;
+}
